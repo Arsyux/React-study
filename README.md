@@ -1,4 +1,5 @@
 <p align="center"><img src="images/ReactStudyLogo.png" alt="ReactStudyLogo"></p>
+<br>
 
 ## [📌 1일차(2024-07-04,목)](document/2024-07-04.md)
 - 레포지토리 생성
