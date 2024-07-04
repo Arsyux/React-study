@@ -11,3 +11,16 @@
   - DOM(Document Object Model)
   - Virtual DOM
 - 기타 특징
+<br>
+
+## [📌 2일차(2024-07-05,금)](document/2024-07-05.md)
+- 작업 환경 설정
+  - Node.js
+  - yarn
+  - VS Code
+    - ESLint
+    - Reactjs Code Snippets
+    - Prettier - Code formatter
+    - Korean Language Pack for Visual Studio Code
+  - Git
+- 프로젝트 생성
