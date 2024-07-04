@@ -7,3 +7,7 @@
   - 컴포넌트
   - 초기 렌더링
   - 조화 과정
+- 리액트의 특징
+  - DOM(Document Object Model)
+  - Virtual DOM
+- 기타 특징
