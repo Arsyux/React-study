@@ -25,3 +25,14 @@
     - Korean Language Pack for Visual Studio Code
   - Git
 - 프로젝트 생성
+<br>
+
+## [📌 3일차(2024-07-06, 토)](document/2024-07-06.md)
+- 코드 이해하기
+- JSX란?
+- JSX의 장점
+- JSX 문법
+<br>
+
+## [📌 4일차(2024-07-07, 일)](document/2024-07-07.md)
+<br>
