@@ -50,4 +50,18 @@
 <br>
 
 ## [📌 6일차(2024-07-09, 화)](document/2024-07-09.md)
+- 컴포넌트 생성해보기
+  - 화살표 함수(Arrow Function)
+  - 모듈 내보내기 및 불러오기
+- props
+  - JSX 내부에서 props 렌더링
+  - 컴포넌트 사용시 props 값 지정하기
+  - props 기본값 설정: defaultProps
+  - 태그 사이의 내용을 가져오기: props.children
+  - 비구조화 할당 문법을 통해 props 내부 값 추출하기
+  - <b>(추가) props.defaultProps 선언 방식 변경</b>
+  - propTypes를 통한 props 검증
+  - isRequired를 사용하여 필수 propTypes 설정
+  - 자주 사용하는 PropTypes 종류
+  - 클래스형 컴포넌트에서 props 사용하기
 <br>
